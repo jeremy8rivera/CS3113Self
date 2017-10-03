@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jeremy\documents\github\introgamedev\homework\week 4\nyucodebase\main.cpp(52): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jeremy\documents\github\introgamedev\homework\week 4\nyucodebase\main.cpp(53): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jeremy\documents\github\introgamedev\homework\week 4\nyucodebase\main.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week 4\nyucodebase\main.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week 4\nyucodebase\main.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Week 4\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Week 4\Debug\NYUCodebase.pdb (Partial PDB)
