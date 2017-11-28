@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(289): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Pong with Sound\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Pong with Sound\Debug\NYUCodebase.pdb (Partial PDB)
