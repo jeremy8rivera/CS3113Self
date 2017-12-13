@@ -1,11 +1,28 @@
-﻿  main.cpp
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(193): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(199): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(223): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(266): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(272): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(279): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\documents\github\introgamedev\homework\pong with sound\nyucodebase\main.cpp(289): warning C4018: '<': signed/unsigned mismatch
-  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Pong with Sound\Debug\NYUCodebase.exe
-  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Pong with Sound\Debug\NYUCodebase.pdb (Partial PDB)
+﻿  ShaderProgram.cpp
+  Matrix.cpp
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\matrix.cpp(214): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\homework\week5n6withsound\nyucodebase\main.cpp(289): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Week5n6withSound\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Homework\Week5n6withSound\Debug\NYUCodebase.pdb (Partial PDB)

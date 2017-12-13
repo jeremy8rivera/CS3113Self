@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(284): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(524): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(529): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(534): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(539): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jeremy\documents\github\introgamedev\final\nyucodebase\main.cpp(547): warning C4305: 'argument': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Final\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\Jeremy\Documents\GitHub\IntroGameDev\Final\Debug\NYUCodebase.pdb (Partial PDB)
